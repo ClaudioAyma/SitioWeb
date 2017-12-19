@@ -210,7 +210,7 @@
      *                       12. Google Map js                                 *
      *-------------------------------------------------------------------------*/
 
-		var myCenter=new google.maps.LatLng(-17.7383037,-63.1729904);
+		var myCenter=new google.maps.LatLng(-17.7746985,-63.195242);
 		function initialize()
 		{
 			var mapProp = {
